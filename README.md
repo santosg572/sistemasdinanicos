@@ -1,2 +1,0 @@
-# sistemasdinanicos
-Luis Perez
