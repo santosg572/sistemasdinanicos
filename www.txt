@@ -1,3 +1,4 @@
+https://smog-server.org/SCM/
 https://smog-server.org/smog2/singularity/
 
 
